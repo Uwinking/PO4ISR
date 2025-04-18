@@ -1,4 +1,7 @@
 基本所有文件都修改为了异步调用
+
 IMPROVE文件设置了四个api
+
 reward函数修改了原先获得排名的错误代码
+
 utils文件的detect_error函数修改了原先获得排名的错误代码
